@@ -1,0 +1,60 @@
+h1{
+	font-style: italic;
+	background-color: pink;
+	color: green;
+	text-align: center;
+
+}
+
+table,th,td{
+	border: 1px solid black
+	border-collapse:collapse; 
+}
+th,td{
+	
+	text-align:left;
+}
+
+.class1{
+	font-weight:bold;
+	background-color:green
+
+}
+p{
+	color: blue
+}
+h2{
+	color: violet;
+	font-style: Arial;
+}
+.c4{
+	font-style: Dubai;
+			font-weight: bold;
+			color: blue
+}
+.c5{
+	color: black
+}
+.ol{
+	font-style: italic;
+	background-color: yellow
+	color:black;
+}
+#id{
+	
+	background-color: skyblue;
+	
+}
+
+.c5{
+	font-size: 20px;
+}
+.c6{
+	font-size: 2em;
+}
+.c7{
+	font-size: 2rem
+}
+.c8{
+	font-size: 20pt
+}

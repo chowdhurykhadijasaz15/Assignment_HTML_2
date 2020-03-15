@@ -25,19 +25,17 @@ p{
 }
 h2{
 	color: violet;
-	font-style: Arial;
 }
 .c4{
-	font-style: Dubai;
 			font-weight: bold;
-			color: blue
+			color: blue;
 }
 .c5{
-	color: black
+	color: black;
 }
 .ol{
 	font-style: italic;
-	background-color: yellow
+	background-color: yellow;
 	color:black;
 }
 #id{
@@ -53,8 +51,8 @@ h2{
 	font-size: 2em;
 }
 .c7{
-	font-size: 2rem
+	font-size: 2rem;
 }
 .c8{
-	font-size: 20pt
+	font-size: 20pt;
 }
